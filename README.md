@@ -1,1 +1,1 @@
-# 50-day-html-css-js
+# 50-days-html-css-js
